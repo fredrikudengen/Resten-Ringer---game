@@ -1,6 +1,6 @@
-## Johanne og Fredrik presenterer Resten Ringer, laget med kjærlighet.
+<img align="right" width=200 src="./image.png">
 
-![Resten Ringer](image.png)
+## Johanne og Fredrik presenterer Resten Ringer, laget med kjærlighet.
 
 ## Historie
 Dette spillet handler om en vanlig kveld på byen.
